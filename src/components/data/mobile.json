@@ -1,0 +1,441 @@
+{
+  "Mobile": [
+    {
+      "id": 1,
+      "image": "data:image/jpeg;base64,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",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "storage": "128GB",
+      "color": "Graphite",
+      "price": 999,
+      "description": "The latest iPhone with Pro features."
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "storage": "256GB",
+      "color": "Phantom Black",
+      "price": 1199,
+      "description": "Samsung's flagship phone with top-notch camera capabilities."
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Pixel 6 Pro",
+      "storage": "128GB",
+      "color": "Stormy Black",
+      "price": 899,
+      "description": "Google's premium Pixel phone with advanced photography features."
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "9 Pro",
+      "storage": "256GB",
+      "color": "Morning Mist",
+      "price": 999,
+      "description": "OnePlus flagship phone with fast charging and smooth performance."
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Mi 11 Ultra",
+      "storage": "256GB",
+      "color": "Ceramic Black",
+      "price": 999,
+      "description": "Xiaomi's flagship phone with a high-resolution camera."
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "iPhone 13",
+      "storage": "128GB",
+      "color": "Midnight",
+      "price": 799,
+      "description": "The latest iPhone with impressive performance and camera improvements."
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy Z Fold 3",
+      "storage": "256GB",
+      "color": "Phantom Black",
+      "price": 1799,
+      "description": "Samsung's foldable phone with a large inner display."
+    },
+    {
+      "id": 8,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Pixel 5a",
+      "storage": "128GB",
+      "color": "Mostly Black",
+      "price": 449,
+      "description": "Google's budget-friendly Pixel phone with a great camera."
+    },
+    {
+      "id": 9,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Nord 2",
+      "storage": "128GB",
+      "color": "Gray Sierra",
+      "price": 399,
+      "description": "OnePlus mid-range phone with fast charging and smooth performance."
+    },
+    {
+      "id": 10,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+      "model": "Redmi Note 11 Pro",
+      "storage": "128GB",
+      "color": "Stellar Blue",
+      "price": 329,
+      "description": "Xiaomi's mid-range phone with a large battery and fast charging."
+    },
+    {
+      "id": 11,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "iPhone 12",
+      "storage": "64GB",
+      "color": "Blue",
+      "price": 699,
+      "description": "Apple's previous flagship iPhone with a sleek design and A14 Bionic chip."
+    },
+    {
+      "id": 12,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy A52s 5G",
+      "storage": "128GB",
+      "color": "Awesome Black",
+      "price": 499,
+      "description": "Samsung's mid-range 5G phone with a high-refresh-rate display."
+    },
+    {
+      "id": 13,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Pixel 4a",
+      "storage": "128GB",
+      "color": "Just Black",
+      "price": 349,
+      "description": "Google's affordable Pixel phone with a compact design and excellent camera."
+    },
+    {
+      "id": 14,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Nord CE 5G",
+      "storage": "128GB",
+      "color": "Charcoal Ink",
+      "price": 299,
+      "description": "OnePlus budget-friendly 5G phone with a sleek design and fast charging."
+    },
+    {
+      "id": 15,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "POCO F3",
+      "storage": "128GB",
+      "color": "Arctic White",
+      "price": 349,
+      "description": "Xiaomi's mid-range phone with a high-refresh-rate display and flagship-level performance."
+    },
+    {
+      "id": 16,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "iPhone SE (2020)",
+      "storage": "64GB",
+      "color": "White",
+      "price": 399,
+      "description": "Apple's compact iPhone with a familiar design and A13 Bionic chip."
+    },
+    {
+      "id": 17,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy S20 FE",
+      "storage": "128GB",
+      "color": "Cloud Navy",
+      "price": 699,
+      "description": "Samsung's Fan Edition with flagship features at a more affordable price."
+    },
+    {
+      "id": 18,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Pixel 4 XL",
+      "storage": "64GB",
+      "color": "Clearly White",
+      "price": 899,
+      "description": "Google's previous flagship Pixel phone with a high-quality camera and pure Android experience."
+    },
+    {
+      "id": 19,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "8T",
+      "storage": "128GB",
+      "color": "Aquamarine Green",
+      "price": 749,
+      "description": "OnePlus flagship phone with a smooth 120Hz display and fast charging."
+    },
+    {
+      "id": 20,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Mi 10T Pro",
+      "storage": "256GB",
+      "color": "Lunar Silver",
+      "price": 599,
+      "description": "Xiaomi's flagship phone with a high-refresh-rate display and flagship-level performance."
+    },
+    {
+      "id": 21,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "iPhone 11",
+      "storage": "128GB",
+      "color": "Green",
+      "price": 599,
+      "description": "Apple's previous flagship iPhone with a dual-camera system and A13 Bionic chip."
+    },
+    {
+      "id": 22,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy Note 20 Ultra",
+      "storage": "256GB",
+      "color": "Mystic Bronze",
+      "price": 1299,
+      "description": "Samsung's premium Note series phone with S Pen support and powerful performance."
+    },
+    {
+      "id": 23,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Pixel 3a XL",
+      "storage": "64GB",
+      "color": "Purple-ish",
+      "price": 479,
+      "description": "Google's budget-friendly Pixel phone with a large display and great camera."
+    },
+    {
+      "id": 24,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "7T",
+      "storage": "128GB",
+      "color": "Frosted Silver",
+      "price": 599,
+      "description": "OnePlus flagship phone with a smooth 90Hz display and fast charging."
+    },
+    {
+      "id": 25,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Redmi 10",
+      "storage": "64GB",
+      "color": "Pebble White",
+      "price": 199,
+      "description": "Xiaomi's budget-friendly phone with a large battery and AI quad-camera system."
+    },
+    {
+      "id": 26,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "iPhone XR",
+      "storage": "64GB",
+      "color": "Black",
+      "price": 499,
+      "description": "Apple's previous flagship iPhone with a Liquid Retina display and A12 Bionic chip."
+    },
+    {
+      "id": 27,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy A32",
+      "storage": "128GB",
+      "color": "Awesome Black",
+      "price": 279,
+      "description": "Samsung's budget-friendly phone with a large display and quad-camera setup."
+    },
+    {
+      "id": 28,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Pixel 4",
+      "storage": "64GB",
+      "color": "Oh So Orange",
+      "price": 799,
+      "description": "Google's previous flagship Pixel phone with Motion Sense and a high-quality camera."
+    },
+    {
+      "id": 29,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Nord N200 5G",
+      "storage": "64GB",
+      "color": "Blue Quantum",
+      "price": 239,
+      "description": "OnePlus budget-friendly 5G phone with a large battery and 90Hz display."
+    },
+    {
+      "id": 30,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "POCO X3 Pro",
+      "storage": "128GB",
+      "color": "Graphite Black",
+      "price": 249,
+      "description": "Xiaomi's mid-range phone with a high-refresh-rate display and Snapdragon 860 processor."
+    },
+    {
+      "id": 31,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "iPhone 8 Plus",
+      "storage": "64GB",
+      "color": "Gold",
+      "price": 549,
+      "description": "Apple's previous flagship Plus-sized iPhone with a dual-camera system and A11 Bionic chip."
+    },
+    {
+      "id": 32,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy A12",
+      "storage": "64GB",
+      "color": "Black",
+      "price": 179,
+      "description": "Samsung's budget-friendly phone with a large display and quad-camera setup."
+    },
+    {
+      "id": 33,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Pixel 3",
+      "storage": "64GB",
+      "color": "Just Black",
+      "price": 799,
+      "description": "Google's previous flagship Pixel phone with a high-quality camera and pure Android experience."
+    },
+    {
+      "id": 34,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "6T",
+      "storage": "128GB",
+      "color": "Mirror Black",
+      "price": 579,
+      "description": "OnePlus flagship phone with a smooth 90Hz display and fast charging."
+    },
+    {
+      "id": 35,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Redmi Note 10",
+      "storage": "128GB",
+      "color": "Onyx Gray",
+      "price": 199,
+      "description": "Xiaomi's budget-friendly phone with a high-refresh-rate display and quad-camera system."
+    },
+    {
+      "id": 36,
+      "brand": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "iPhone SE (2022)",
+      "storage": "128GB",
+      "color": "PRODUCT(RED)",
+      "price": 499,
+      "description": "Apple's compact iPhone with 5G capabilities and A15 Bionic chip."
+    },
+    {
+      "id": 37,
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Galaxy A03s",
+      "storage": "64GB",
+      "color": "Black",
+      "price": 139,
+      "description": "Samsung's budget-friendly phone with a large battery and triple-camera setup."
+    },
+    {
+      "id": 38,
+      "brand": "Google",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Pixel 3a",
+      "storage": "64GB",
+      "color": "Just Black",
+      "price": 399,
+      "description": "Google's budget-friendly Pixel phone with a compact design and excellent camera."
+    },
+    {
+      "id": 39,
+      "brand": "OnePlus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbo1y2yeaymIesa7cDSTmT8lo6GK4-jtyfSw&usqp=CAU",
+
+      "model": "Nord CE",
+      "storage": "128GB",
+      "color": "Blue Void",
+      "price": 329,
+      "description": "OnePlus budget-friendly phone with a sleek design and triple-camera setup."
+    },
+    {
+      "id": 40,
+      "brand": "Xiaomi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-eEqhPjhgJXamTePRQGr6Z_vv2_gSQsMoaw&usqp=CAU",
+
+      "model": "Mi 11 Lite",
+      "storage": "128GB",
+      "color": "Bubblegum Blue",
+      "price": 299,
+      "description": "Xiaomi's lightweight phone with a sleek design and versatile camera."
+    }
+  ]
+}

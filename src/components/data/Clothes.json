@@ -1,0 +1,303 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "category": "T-shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "M",
+      "price": 25.99
+    },
+    {
+      "id": 2,
+      "category": "Jeans",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Levi's",
+      "color": "Blue",
+      "size": "32x32",
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "category": "Dress",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Zara",
+      "color": "Red",
+      "size": "S",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "category": "Jacket",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "The North Face",
+      "color": "Gray",
+      "size": "L",
+      "price": 99.99
+    },
+    {
+      "id": 5,
+      "category": "Hoodie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Adidas",
+      "color": "Navy",
+      "size": "XL",
+      "price": 45.99
+    },
+    {
+      "id": 6,
+      "category": "Skirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "H&M",
+      "color": "Pink",
+      "size": "M",
+      "price": 29.99
+    },
+    {
+      "id": 7,
+      "category": "Sweater",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Gap",
+      "color": "Green",
+      "size": "L",
+      "price": 35.99
+    },
+    {
+      "id": 8,
+      "category": "Pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Under Armour",
+      "color": "Black",
+      "size": "30x30",
+      "price": 59.99
+    },
+    {
+      "id": 9,
+      "category": "Blouse",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Forever 21",
+      "color": "White",
+      "size": "S",
+      "price": 19.99
+    },
+    {
+      "id": 10,
+      "category": "Sweatshirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Puma",
+      "color": "Gray",
+      "size": "XL",
+      "price": 39.99
+    },
+    {
+      "id": 11,
+      "category": "Shorts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "American Eagle",
+      "color": "Khaki",
+      "size": "32",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "category": "Coat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Calvin Klein",
+      "color": "Black",
+      "size": "M",
+      "price": 129.99
+    },
+    {
+      "id": 13,
+      "category": "Trousers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Tommy Hilfiger",
+      "color": "Navy",
+      "size": "34x32",
+      "price": 69.99
+    },
+    {
+      "id": 14,
+      "category": "Dress Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Ralph Lauren",
+      "color": "Blue",
+      "size": "M",
+      "price": 79.99
+    },
+    {
+      "id": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "category": "Sweatpants",
+      "brand": "Champion",
+      "color": "Gray",
+      "size": "L",
+      "price": 34.99
+    },
+    {
+      "id": 16,
+      "category": "Cardigan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Old Navy",
+      "color": "Burgundy",
+      "size": "S",
+      "price": 24.99
+    },
+    {
+      "id": 17,
+      "category": "Tank Top",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Hollister",
+      "color": "White",
+      "size": "XS",
+      "price": 14.99
+    },
+    {
+      "id": 18,
+      "category": "Swimwear",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Speedo",
+      "color": "Black",
+      "size": "L",
+      "price": 39.99
+    },
+    {
+      "id": 19,
+      "category": "Polo Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Lacoste",
+      "color": "Green",
+      "size": "M",
+      "price": 59.99
+    },
+    {
+      "id": 20,
+      "category": "Socks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Nike",
+      "color": "White",
+      "size": "One Size",
+      "price": 9.99
+    },
+    {
+      "id": 21,
+      "category": "Leggings",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Fabletics",
+      "color": "Black",
+      "size": "XS",
+      "price": 49.99
+    },
+    {
+      "id": 22,
+      "category": "Pullover",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Gap",
+      "color": "Navy",
+      "size": "M",
+      "price": 29.99
+    },
+    {
+      "id": 23,
+      "category": "Dress Pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Express",
+      "color": "Gray",
+      "size": "30x32",
+      "price": 69.99
+    },
+    {
+      "id": 24,
+      "category": "Vest",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Columbia",
+      "color": "Red",
+      "size": "L",
+      "price": 59.99
+    },
+    {
+      "id": 25,
+      "category": "Jumper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Forever 21",
+      "color": "Yellow",
+      "size": "S",
+      "price": 19.99
+    },
+    {
+      "id": 26,
+      "category": "Button-Up Shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Banana Republic",
+      "color": "White",
+      "size": "M",
+      "price": 49.99
+    },
+    {
+      "id": 27,
+      "category": "Sweat Shorts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Abercrombie & Fitch",
+      "color": "Gray",
+      "size": "M",
+      "price": 29.99
+    },
+    {
+      "id": 28,
+      "category": "Coat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Patagonia",
+      "color": "Blue",
+      "size": "XL",
+      "price": 149.99
+    },
+    {
+      "id": 29,
+      "category": "Blazer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "H&M",
+      "color": "Black",
+      "size": "M",
+      "price": 69.99
+    },
+    {
+      "id": 30,
+      "category": "Poncho",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSTstWSA1rO98kv-CRmlOo1xu6hJCxqmtqA&usqp=CAU",
+
+      "brand": "Free People",
+      "color": "Gray",
+      "size": "One Size",
+      "price": 79.99
+    }
+  ]
+}
